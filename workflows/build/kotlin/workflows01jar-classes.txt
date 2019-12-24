@@ -1,0 +1,1 @@
+/home/assange/cordapp-template-kotlin/workflows/build/classes/kotlin/main/com/template/flows/CarIssueInitiator.class:/home/assange/cordapp-template-kotlin/workflows/build/classes/kotlin/main/com/template/flows/CarIssueResponder$call$signedTransactionFlow$1.class:/home/assange/cordapp-template-kotlin/workflows/build/classes/kotlin/main/com/template/flows/CarIssueResponder.class
